@@ -1,0 +1,3 @@
+url:
+  api:
+    cep: https://api.postmon.com.br/v1/cep/
